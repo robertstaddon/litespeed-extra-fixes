@@ -6,7 +6,7 @@
 	Author: Abundant Designs LLC
 	Author URI: https://www.abundantdesigns.com
 	License: GPLv2 or later
-	Text Domain: litespeed-divi-fixes
+	Text Domain: litespeed-extra-fixes
  */
  
 
